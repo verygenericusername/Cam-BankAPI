@@ -17,6 +17,12 @@
             "password":"pizza",
             "id":"3",
             "balance":"10000"
+        },
+        {
+            "user":"Isiah",
+            "password":"canistabyou",
+            "id":"4",
+            "balance":"10000"
         }
     ]
 }
