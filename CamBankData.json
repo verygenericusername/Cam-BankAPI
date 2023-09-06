@@ -1,7 +1,7 @@
 {
     "users": [
         {
-            "name": "Chevy",
+            "user": "Chevy",
             "password":"4961",
             "id":"1",
             "balance":"0"
