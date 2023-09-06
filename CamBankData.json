@@ -11,6 +11,12 @@
             "password":"ibombedyourhouse",
             "id":"2",
             "balance":"102620422862"
+        },
+        {
+            "user":"Dustin",
+            "password":"pizza",
+            "id:"3",
+            "balance":"10000"
         }
     ]
 }
