@@ -5,6 +5,12 @@
             "password":"4961",
             "id":"1",
             "balance":"112620422862"
+        },
+        {
+            "user":"Caleb",
+            "password":"ibombedyourhouse",
+            "id":"2",
+            "balance":"1000"
         }
     ]
 }
