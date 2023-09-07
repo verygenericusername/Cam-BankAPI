@@ -16,19 +16,19 @@
             "user":"Dustin",
             "password":"pizza",
             "id":"3",
-            "balance":"10000"
+            "balance":"0"
         },
         {
             "user":"Isiah",
             "password":"canistabyou",
             "id":"4",
-            "balance":"10000"
+            "balance":"0"
         },
         {
             "user":"Noah",
             "password":"miles",
             "id":"5",
-            "balance":"50000000"
+            "balance":"0"
         }
     ]
 }
