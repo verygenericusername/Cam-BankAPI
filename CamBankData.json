@@ -29,6 +29,12 @@
             "password":"miles",
             "id":"5",
             "balance":"0"
+        },
+        {
+            "user":"Darren",
+            "password":"bendover",
+            "id":"6",
+            "balance":"0"
         }
     ]
 }
