@@ -35,6 +35,12 @@
             "password":"bendover",
             "id":"6",
             "balance":"0"
+        },
+        {
+            "user":"Antonio",
+            "password":"smartman",
+            "id":"7",
+            "balance":"10000"
         }
     ]
 }
